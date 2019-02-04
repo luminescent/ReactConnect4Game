@@ -143,8 +143,6 @@ class Board extends React.Component {
           haveWinner: hasWon
         };
       });
-
-      // now we have to check if we have a winner
     }
   };
 
